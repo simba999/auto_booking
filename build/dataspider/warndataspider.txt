@@ -1,0 +1,83 @@
+missing module named org - imported by copy
+missing module named _sysconfigdata_d - imported by _sysconfigdata
+missing module named _winreg - imported by mimetypes, urllib, winreg, platform, selenium.webdriver.firefox.firefox_binary
+missing module named _scproxy - imported by urllib, future.backports.urllib.request
+missing module named EasyDialogs - imported by getpass
+missing module named msvcrt - imported by subprocess, getpass
+missing module named SOCKS - imported by ftplib
+missing module named rourl2path - imported by urllib
+missing module named _dummy_threading - imported by dummy_threading
+missing module named 'org.python' - imported by pickle, xml.sax
+missing module named 'dbm.ndbm' - imported by future.moves.dbm.ndbm
+missing module named gdbm - imported by anydbm, future.moves.dbm.gnu
+missing module named 'dbm.gnu' - imported by future.moves.dbm.gnu
+missing module named 'dbm.dumb' - imported by future.moves.dbm.dumb
+missing module named bsddb3 - imported by bsddb
+missing module named _pybsddb - imported by bsddb, bsddb.db
+missing module named _subprocess - imported by subprocess
+missing module named _tkinter - imported by FixTk, Tkinter
+missing module named 'ctypes.macholib' - imported by ctypes.util
+missing module named 'test.support' - imported by future.moves.test.support
+missing module named _datetime - imported by future.backports.datetime
+missing module named reprlib.recursive_repr - imported by reprlib, future.backports.misc
+missing module named _thread.get_ident - imported by _thread, future.backports.misc
+missing module named winreg.HKEY_CURRENT_USER - imported by winreg, selenium.webdriver.firefox.firefox_binary
+missing module named winreg.QueryValue - imported by winreg, selenium.webdriver.firefox.firefox_binary
+missing module named winreg.OpenKey - imported by winreg, selenium.webdriver.firefox.firefox_binary
+missing module named winreg.HKEY_LOCAL_MACHINE - imported by winreg, platform, selenium.webdriver.firefox.firefox_binary
+missing module named winreg.CloseKey - imported by winreg, platform
+missing module named winreg.QueryValueEx - imported by winreg, platform
+missing module named winreg.OpenKeyEx - imported by winreg, platform
+missing module named 'urllib.parse' - imported by twisted.python.compat, asn1crypto._iri, w3lib.url, lxml.html, twisted.web.http, requests.packages.urllib3.request, requests.packages.urllib3.poolmanager, requests.compat
+missing module named vms_lib - imported by platform
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions
+missing module named java - imported by platform
+missing module named _xmlplus - imported by xml
+missing module named 'Carbon.File' - imported by plistlib
+missing module named 'Carbon.Files' - imported by plistlib
+missing module named Carbon - imported by plistlib
+missing module named MacOS - imported by platform
+missing module named macresource - imported by MacOS
+missing module named gestalt - imported by platform
+missing module named win32pipe - imported by platform, twisted.internet._dumbwin32proc, twisted.internet._pollingfile
+missing module named asyncio - imported by twisted.internet.defer
+missing module named netbios - imported by uuid
+missing module named win32wnet - imported by uuid
+missing module named pywintypes - imported by twisted.python.lockfile, twisted.internet._dumbwin32proc, twisted.internet._pollingfile
+missing module named win32api - imported by twisted.python.win32, twisted.python.lockfile, twisted.internet._dumbwin32proc, twisted.internet._pollingfile
+missing module named win32gui - imported by twisted.internet.win32eventreactor
+missing module named win32event - imported by twisted.internet._dumbwin32proc, twisted.internet.win32eventreactor
+missing module named win32file - imported by twisted.internet._dumbwin32proc, twisted.internet._pollingfile, twisted.internet.win32eventreactor
+missing module named win32security - imported by twisted.internet._dumbwin32proc
+missing module named win32con - imported by twisted.python.win32, twisted.internet._dumbwin32proc
+missing module named win32process - imported by twisted.internet.posixbase, twisted.internet._dumbwin32proc
+missing module named sgi - imported by pty
+missing module named 'six.moves.urllib_parse' - imported by 'six.moves.urllib_parse'
+runtime module named six.moves - imported by scrapy._monkeypatches, cryptography.x509.general_name, 'six.moves.urllib', scrapy.http.request.rpc
+missing module named _xmlrpclib - imported by xmlrpclib
+missing module named 'urllib.request' - imported by lxml.html, requests.compat
+missing module named 'collections.abc' - imported by lxml.html
+missing module named chardet - imported by requests.packages
+runtime module named urllib3.packages.six.moves - imported by httplib, urllib3.connectionpool, urllib3.util.response, 'urllib3.packages.six.moves.urllib', urllib3.response
+missing module named 'backports.ssl_match_hostname' - imported by urllib3.packages.ssl_match_hostname
+missing module named "'urllib3.packages.six.moves.urllib'.parse" - imported by urllib3.request, urllib3.poolmanager
+runtime module named requests.packages.urllib3.packages.six.moves - imported by requests.packages.urllib3.util.response, requests.packages.urllib3.response
+missing module named backports - imported by requests.packages.urllib3.packages.ssl_match_hostname
+missing module named simplejson - imported by requests.compat
+missing module named 'ndg.httpsclient' - imported by requests.packages.urllib3.contrib.pyopenssl
+missing module named ndg - imported by requests.packages.urllib3.contrib.pyopenssl
+missing module named 'h2.exceptions' - imported by twisted.web._http2
+missing module named 'h2.events' - imported by twisted.web._http2
+missing module named 'h2.errors' - imported by twisted.web._http2
+missing module named 'h2.connection' - imported by twisted.web._http2
+missing module named h2 - imported by twisted.web._http2
+missing module named priority - imported by twisted.web._http2
+missing module named "'six.moves.urllib'.request" - imported by w3lib.url
+missing module named "'six.moves.urllib'.parse" - imported by w3lib.url, scrapy.utils.url, scrapy.http.request.form, scrapy.http.response, scrapy.http.response.text, scrapy.utils.sitemap
+missing module named riscosenviron - imported by os
+missing module named riscospath - imported by os
+missing module named riscos - imported by os
+missing module named ce - imported by os
+missing module named _emx_link - imported by os
+missing module named os2 - imported by os
+missing module named nt - imported by os, ntpath
