@@ -5,7 +5,6 @@ import os
 from scrapy.spiders import Spider
 from scrapy.http import FormRequest
 from scrapy.http import Request
-import requests
 from data.items import DataItem
 from lxml import etree
 from selenium import webdriver
