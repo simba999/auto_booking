@@ -1,0 +1,4 @@
+1. install python 2.7 (in linux, it is pre-installed)
+2. pip install -r requirements.txt
+3. sudo apt-get install python-tk
+4. run "scrapy crawl dataspider"
